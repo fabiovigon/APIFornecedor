@@ -328,3 +328,5 @@ ASALocalRun /
 
 # Pasta de trabalho MFractors (ferramenta de produtividade Xamarin) 
 .mfractor /
+
+*db.lock
