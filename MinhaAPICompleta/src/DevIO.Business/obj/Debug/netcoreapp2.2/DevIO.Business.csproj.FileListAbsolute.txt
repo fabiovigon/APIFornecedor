@@ -1,0 +1,15 @@
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\FÁBIOVIEIRAGONÇALVES\Desktop\Curso EduardoPires\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb

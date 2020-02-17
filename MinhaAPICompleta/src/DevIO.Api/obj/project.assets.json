@@ -12355,13 +12355,13 @@
     },
     "DevIO.Business/1.0.0": {
       "type": "project",
-      "path": "../../../../src/DevIO.Business/DevIO.Business.csproj",
-      "msbuildProject": "../../../../src/DevIO.Business/DevIO.Business.csproj"
+      "path": "../DevIO.Business/DevIO.Business.csproj",
+      "msbuildProject": "../DevIO.Business/DevIO.Business.csproj"
     },
     "DevIO.Data/1.0.0": {
       "type": "project",
-      "path": "../../../../src/DevIO.Data/DevIO.Data.csproj",
-      "msbuildProject": "../../../../src/DevIO.Data/DevIO.Data.csproj"
+      "path": "../DevIO.Data/DevIO.Data.csproj",
+      "msbuildProject": "../DevIO.Data/DevIO.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12407,11 +12407,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\FÁBIOVIEIRAGONÇALVES\\Desktop\\Curso EduardoPires\\src\\DevIO.Business\\DevIO.Business.csproj": {
-              "projectPath": "C:\\Users\\FÁBIOVIEIRAGONÇALVES\\Desktop\\Curso EduardoPires\\src\\DevIO.Business\\DevIO.Business.csproj"
+            "C:\\Users\\FÁBIOVIEIRAGONÇALVES\\Desktop\\Curso EduardoPires\\MinhaAPICompleta\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+              "projectPath": "C:\\Users\\FÁBIOVIEIRAGONÇALVES\\Desktop\\Curso EduardoPires\\MinhaAPICompleta\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
             },
-            "C:\\Users\\FÁBIOVIEIRAGONÇALVES\\Desktop\\Curso EduardoPires\\src\\DevIO.Data\\DevIO.Data.csproj": {
-              "projectPath": "C:\\Users\\FÁBIOVIEIRAGONÇALVES\\Desktop\\Curso EduardoPires\\src\\DevIO.Data\\DevIO.Data.csproj"
+            "C:\\Users\\FÁBIOVIEIRAGONÇALVES\\Desktop\\Curso EduardoPires\\MinhaAPICompleta\\MinhaAPICompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+              "projectPath": "C:\\Users\\FÁBIOVIEIRAGONÇALVES\\Desktop\\Curso EduardoPires\\MinhaAPICompleta\\MinhaAPICompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
             }
           }
         }
